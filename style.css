@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://st2.depositphotos.com/1177973/6086/i/450/depositphotos_60867841-stock-photo-delicious-chocolate-cake-on-plate.jpg);
+    background-size: cover;
+  }
+  h1 {
+    text-align: center;
+    color: rgb(8, 8, 8);
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-top: 100px;
+  }
+  .recipe {
+    background-color: rgba(19, 20, 20, 0.6);
+
+    color: rgb(228, 189, 189);
+    width: 800px;
+    margin: 100px auto;
+    padding: 50px;
+    box-shadow: 0 0 10px #333;
+  }
+  h2 {
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  p {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
